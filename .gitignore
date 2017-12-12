@@ -6,9 +6,6 @@ esdoc/
 *.log
 *.map
 package-lock.json
-src/assets/renderer.js
-src/assets/main.js
-src/assets/bundle.css
 !.gitignore
 !.babelrc
 
